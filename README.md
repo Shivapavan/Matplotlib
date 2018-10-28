@@ -84,3 +84,4 @@ As final considerations:
 ## Copyright
 
 Data Boot Camp © 2018. All Rights Reserved.
+# Matplotlib
